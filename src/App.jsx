@@ -17,8 +17,7 @@ function App() {
           </div>
           <h1 className="text-5xl/tight font-bold mb-6">Hi, Saya Ubthar</h1>
           <p className="text-base/loose mb-6 opacity-50">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum eos, nulla fuga ab eveniet unde, voluptatum, quae consectetur ipsa facilis doloremque recusandae earum quia obcaecati.
-          </p>
+            Saya adalah murid di Hubbul Khoir yang memiliki ketertarikan tentang design ui/ux dan programming</p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a
               href="#"
